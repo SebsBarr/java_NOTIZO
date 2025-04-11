@@ -32,8 +32,8 @@ Replicar la funcionalidad del sitio web de "El Espectador", ofreciendo acceso a 
 
 ### 🎨 Mockup del Proyecto
 
-Puedes ver el diseño del sitio aquí:🔗 Figma – El Espectador
+Presenta un enlace directo la vista previa de la app.
 
 ### 📚 CRC Cards
 
-Esta sección puede contener las tarjetas CRC del proyecto.
+Esta sección contiene las tarjetas CRC del proyecto.
