@@ -26,7 +26,9 @@ Replicar la funcionalidad del sitio web de "El Espectador", ofreciendo acceso a 
 
 -Prioridad
 
--Historia-Criterios de Aceptación
+-Historia
+
+-Criterios de Aceptación
 
 ### 🎨 Mockup del Proyecto
 
