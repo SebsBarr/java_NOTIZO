@@ -34,8 +34,8 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 - Java class skeletons with attributes and basic methods
 - Application of encapsulation with getters and setters
 
-### 4.Mockup
--Mockup: https://www.figma.com/proto/iNxlbwTLOjuXZIfmVmLjmf/P%C3%A1gina-EL-ESPECTADOR?node-id=1-6876&t=i2iDk84kHLAn7zfj-1
+### 4. Mockup
+- Mockup: https://www.figma.com/proto/iNxlbwTLOjuXZIfmVmLjmf/P%C3%A1gina-EL-ESPECTADOR?node-id=1-6876&t=i2iDk84kHLAn7zfj-1
 ## 🗂️ Project Structure
 
 ---
