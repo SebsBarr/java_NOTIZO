@@ -1,4 +1,4 @@
-# 📰 Workshop-2 — *El Espectador* News Website
+# 📰 Workshop-2 — *El Espectador* News App
 
 ## 📚 Object-Oriented Programming — Semester 2025-I
 **Universidad Distrital Francisco José de Caldas**  
