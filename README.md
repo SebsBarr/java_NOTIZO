@@ -1,39 +1,54 @@
-# Workshop-1
+# 📰 Workshop-2 — *El Espectador* News Website
 
-Este workshop contiene el taller 1 del curso programación ortientada a objetos.
+## 📚 Object-Oriented Programming — Semester 2025-I
+**Universidad Distrital Francisco José de Caldas**  
+**Professor**: Eng. Carlos Andrés Sierra, M.Sc.  
 
-### Autores:
+---
 
-Angie Nathaly Cisneros Guerrero – 20242020084
+## 👥 Authors
+- Angie Nathaly Cisneros Guerrero — 20242020084
+- Luis Sebastián Correa Barreto — 20242020085
 
-Luis Sebastián Correa Barreto – 20242020085
+---
 
-### 🎯 Proyecto
+## 🎯 Project Description
+This project replicates the basic functionality of the **El Espectador** news website, offering users the ability to easily browse, search, and view categorized news articles.
 
-Replicar la funcionalidad del sitio web de "El Espectador", ofreciendo acceso a noticias actuales, organizadas por secciones y con navegación intuitiva para el usuario.
+The main objective is to apply core Object-Oriented Programming (OOP) principles such as **encapsulation**, **inheritance**, and **polymorphism** to build a scalable and maintainable transactional application.
 
-### ✅ Objetivos
+---
 
--Contiene los objetivos principales del proyecto.
+## 📋 Deliverables
 
-### 📋 Requisitos
+### 1. Updated Conceptual Design
+- Functional and Non-Functional Requirements
+- Complete User Stories (with Acceptance Criteria)
+- CRC Cards for all main classes
 
--Requisitos Funcionales
+### 2. Technical Design
+- UML Class Diagram
+- Sequence Diagram for key interactions
 
--Requisitos No Funcionales
+### 3. Initial Implementation
+- Java class skeletons with attributes and basic methods
+- Application of encapsulation with getters and setters
 
-### 👤 Historias de Usuario
+---
 
--Prioridad
+## 🗂️ Project Structure
 
--Historia
-
--Criterios de Aceptación
-
-### 🎨 Mockup del Proyecto
-
-Presenta un enlace directo la vista previa de la app.
-
-### 📚 CRC Cards
-
-Esta sección contiene las tarjetas CRC del proyecto.
+```bash
+Workshop-2/
+├── src/
+│   ├── News.java
+│   ├── Section.java
+│   ├── User.java
+│   ├── Homepage.java
+│   ├── NewsRepository.java
+│   └── SearchEngine.java
+├── diagrams/
+│   ├── class_diagram.png
+│   └── sequence_diagram.png
+├── README.md
+└── Workshop2_Documentation.pdf
