@@ -41,14 +41,9 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 ```bash
 Workshop-2/
 ├── src/
+│   ├── Homepage.java
 │   ├── News.java
 │   ├── Section.java
-│   ├── User.java
-│   ├── Homepage.java
-│   ├── NewsRepository.java
-│   └── SearchEngine.java
-├── diagrams/
-│   ├── class_diagram.png
-│   └── sequence_diagram.png
-├── README.md
-└── Workshop2_Documentation.pdf
+│   └── NewsRepository.java
+|── Workshop-2.pdf
+└── README.md
