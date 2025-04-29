@@ -19,6 +19,10 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 
 ---
 
+## ⏩ Table Of Contents
+
+- [Derivables](#-Derivables)
+
 ## 📋 Deliverables
 
 ### 1. Updated Conceptual Design
