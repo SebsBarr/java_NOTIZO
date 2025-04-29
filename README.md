@@ -15,7 +15,7 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 
 ## ⏩ Table Of Contents
 
-- [Updated Conceptual Design](#updated_conceptual_design)
+- [Updated Conceptual Design](#-updated-conceptual-design)
 - [Technical Design](#technical_design)
 - [Initial Implementation](#initial_implementation)
 - [Links (For mockup and detailed view of diagrams)](#links_(for_mockup_and_detailed_view_of_diagrams))
