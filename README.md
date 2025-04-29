@@ -19,7 +19,7 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 - [Technical Design](#technical_design)
 - [Initial Implementation](#initial_implementation)
 - [Links (For mockup and detailed view of diagrams)](#links_(for_mockup_and_detailed_view_of_diagrams))
-- [Project Structure](#project-structure)
+- [Project Structure](#🗂️)
 ## 🎯 Updated Conceptual Design
 - Functional and Non-Functional Requirements
 - Complete User Stories (with Acceptance Criteria)
@@ -34,6 +34,8 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 - Application of encapsulation with getters and setters
 
 ## ⚓ Links (For mockup and detailed view of diagrams):
+You may need to log in.
+
 - [Mockup](https://www.figma.com/proto/iNxlbwTLOjuXZIfmVmLjmf/P%C3%A1gina-EL-ESPECTADOR?node-id=1-7075&t=i2iDk84kHLAn7zfj-1)
 
 - [UML diagram](https://lucid.app/lucidchart/cc941619-0a65-44e5-ac46-55e62e0e57be/edit?viewport_loc=-1692%2C-468%2C2008%2C823%2C0_0&invitationId=inv_7a98d85b-1326-45de-8901-720decd1ae3b)
