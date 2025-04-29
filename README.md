@@ -16,24 +16,24 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 ## ⏩ Table Of Contents
 
 - [Updated Conceptual Design](#-updated-conceptual-design)
-- [Technical Design](#⚙️-technical-design)
+- [Technical Design](#-technical-design)
 - [Initial Implementation](#-initial-implementation)
 - [Links (For mockup and detailed view of diagrams)](#-links-for-mockup-and-detailed-view-of-diagrams)
 - [Project Structure](#-project-structure)
-## 🎯 Updated Conceptual Design
+## Updated Conceptual Design
 - Functional and Non-Functional Requirements
 - Complete User Stories (with Acceptance Criteria)
 - CRC Cards for all main classes
 
-## ⚙️ Technical Design
+## Technical Design
 - UML Class Diagram
 - Sequence Diagram for key interactions
 
-## ⭐ Initial Implementation
+## Initial Implementation
 - Java class skeletons with attributes and basic methods
 - Application of encapsulation with getters and setters
 
-## ⚓ Links (For mockup and detailed view of diagrams):
+## Links (For mockup and detailed view of diagrams):
 You may need to log in.
 
 - [Mockup](https://www.figma.com/proto/iNxlbwTLOjuXZIfmVmLjmf/P%C3%A1gina-EL-ESPECTADOR?node-id=1-7075&t=i2iDk84kHLAn7zfj-1)
@@ -44,7 +44,7 @@ You may need to log in.
 
 - [Sequence Diagrams 3-4](https://lucid.app/lucidchart/0f6ad412-4ed2-4cc6-93ae-11e8c72f1dc7/edit?viewport_loc=2255%2C706%2C2692%2C1313%2C0_0&invitationId=inv_5d5e9643-774d-4b25-b83e-6bf98a502c87)
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```bash
 Workshop-2/
