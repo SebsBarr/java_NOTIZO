@@ -4,20 +4,14 @@
 **Universidad Distrital Francisco José de Caldas**  
 **Professor**: Eng. Carlos Andrés Sierra, M.Sc.  
 
----
-
 ## 👥 Authors
 - Angie Nathaly Cisneros Guerrero — 20242020084
 - Luis Sebastián Correa Barreto — 20242020085
-
----
 
 ## 🎯 Project Description
 This project replicates the basic functionality of the **El Espectador** news website, offering users the ability to easily browse, search, and view categorized news articles.
 
 The main objective is to apply core Object-Oriented Programming (OOP) principles such as **encapsulation**, **inheritance**, and **polymorphism** to build a scalable and maintainable transactional application.
-
----
 
 ## ⏩ Table Of Contents
 
@@ -25,7 +19,7 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 - [Technical Design](#technical_design)
 - [Initial Implementation](#initial_implementation)
 - [Links (For mockup and detailed view of diagrams)](#links_(for_mockup_and_detailed_view_of_diagrams))
-
+- [Project Structure](#project-structure)
 ## 🎯 Updated Conceptual Design
 - Functional and Non-Functional Requirements
 - Complete User Stories (with Acceptance Criteria)
@@ -48,7 +42,6 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 
 - [Sequence Diagrams 3-4](https://lucid.app/lucidchart/0f6ad412-4ed2-4cc6-93ae-11e8c72f1dc7/edit?viewport_loc=2255%2C706%2C2692%2C1313%2C0_0&invitationId=inv_5d5e9643-774d-4b25-b83e-6bf98a502c87)
 
----
 ## 🗂️ Project Structure
 
 ```bash
