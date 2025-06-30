@@ -15,16 +15,26 @@ public class Section {
         this.newsList = newsList;
     }
 
-    //methoods
+    //Methods
 
-    private News addNews(news){
+    protected void addNews(News news){
+        this.newsList.add(news);
+
+    }
+    protected void removeNews(News news){
+        this.newsList.remove(news);
+    }
+    private void displayLatestNews (){
 
     }
 
-    //getters
+    //Getters
 
-    private List<News> getLatestNews (int limit){
+    public List<News> getLatestNews (int limit){
 
+
+    }
+    public List<News> getFeaturedNews (int limit){
 
     }
 

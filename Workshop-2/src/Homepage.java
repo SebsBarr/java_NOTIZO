@@ -9,24 +9,32 @@ import java.util.List;
 public class Homepage{
 
     //Attributes
-    private News featuredNews;
+    private News mainNews;
     private List<Section> sections;
 
     //Constructor
 
-    public Homepage(News featuredNews, List<Section> sections){
+    public Homepage(News mainNews, List<Section> sections){
 
-        this.featuredNews = featuredNews;
+        this.mainNews = mainNews;
         this.sections = sections;
 
     }
 
-    //methoods
+    //Methods
+
+    private void displayMainNews(){
+
+    }
     private void displayFeaturedNews(){
 
     }
+    private void addSection(Section section){
+        this.sections.add(section);
 
-    private void displayTopStories(){
+    }
+    private void removeSection(Section section){
+        this.sections.remove(section);
 
     }
     

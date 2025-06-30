@@ -11,19 +11,20 @@ public class News {
     private String title;
     private String content;
     private LocalDate date;
-    private boolean isTopStory;
+    private boolean isFeaturedNew;
     private String author;
-    private String image;
+    private NewsImage image;
 
     //Constructor
-    public News (String newId, String title, String content, String dateString, String author, boolean isTopStory){
+    public News (String newId, String title, String content, String dateString, String author, boolean isFeaturedNew, NewsImage image){
 
         this.newId = newId;
         this.title = title;
         this.content = content;
         this.date = validateDate(dateString);  //assigns to the date attribute the date of the parameter (string) previously validated
         this.author = author;
-        this.isTopStory = isTopStory;
+        this.isFeaturedNew = isFeaturedNew;
+        this.image = image;
 
     }
 
@@ -54,7 +55,7 @@ public class News {
 
     
 
-    //getters
+    //Getters
 
     /**
      * This getSummary methood, From the text create a "summary", combining the title, the author and the first characters of the news.
@@ -72,8 +73,8 @@ public class News {
         }
 
     }
-    public String getCountry(){
-        return country;
+    public LocalDate getDate(LocalDate date){
+        return date;
     }
 
     //Setters
@@ -82,8 +83,8 @@ public class News {
         this.date = validateDate(dateString);
     }
 
-    private void markAsTopStory(){
-        this.isTopStory = true;
+    private void markAsFeaturedNew(){
+        this.isFeaturedNew = true;
     }
 
     public void setNewId (int newId){

@@ -9,9 +9,18 @@ public class InternationalNews extends News {
     //Constructor
     public InternationalNews(String country, String region){
 
-        super(nameId, title, content, date, isTopStory, author, image);
+        super(nameId, title, content, date, isFeaturedNew, author, image);
         this.country = country;
         this.region = region;
+    }
+
+    //Getters
+
+    public String getCountry(){
+        return country;
+    }
+    public String getRegion(){
+        return region;
     }
     
     //Setters
@@ -30,4 +39,6 @@ public class InternationalNews extends News {
         }
         this.region = region;
     }
+
+    
 }

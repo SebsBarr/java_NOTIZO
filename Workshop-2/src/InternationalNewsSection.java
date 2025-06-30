@@ -2,11 +2,23 @@
 
 public class InternationalNewsSection extends Section {
 
+    //Attributes
+    private String nationalCountry = "Colombia";
+
     //Constructor
-    public InternationalNewsSection(){
+    public InternationalNewsSection(String nationalCountry){
         super(name, newsList)
+        this.nationalCountry = nationalCountry;
     }
-    //methoods
+    //Methods
+    @Override
+    public void addNews(News news){
+        if (isInternationalNews(news)){
+            super.addNews(news);
+        } else{
+            throw new IllegalArgumentException ("National news cannot be added to the international section.");
+        }
+    }
 
     /**
      * This validate International News methood, verifies whether the news is international or not..
@@ -15,13 +27,26 @@ public class InternationalNewsSection extends Section {
      * @return The method returns a boolean whether the news is international or not .
      */
     private boolean isInternationalNews (News news){
-        
-        String nationalCountry = "Colombia";
-        if ( news != null && news.getCountry() !=null && !news.getCountry().trim().equalsIgnoreCase(nationalCountry)){
-            return true;
+        if (news instanceof InternationalNews){
+
+            if ( news != null && news.getCountry() !=null && !news.getCountry().trim().equalsIgnoreCase(nationalCountry)){
+                return true;
+            }
+            return false;
         }
         return false;
+    }
+
+    //Getters
+    @Override
+    public List<News> getLatestNews (int limit){
+
+        
+    }
+    @Override
+    public List<News> getFeaturedNews (int limit){
 
     }
+
 
 }
