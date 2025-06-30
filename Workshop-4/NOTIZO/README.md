@@ -36,10 +36,9 @@ Clone the github repository, then go to the ‘presenter‘ package and run the 
 Repo guide:
 
 ├── NOTIZO/
-...
 │ │ └── presenter/
-│ │ └── App.java ##RUN THIS FILE AFTER CLONING REPO##
-... NewsPresenter.java 
+│ │ └── App.java ##RUN THIS FILE AFTER CLONING REPO## 
+
 ---
 
 ## Project Structure
