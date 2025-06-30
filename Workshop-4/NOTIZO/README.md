@@ -34,11 +34,12 @@ Built with **Java**, the system emphasizes **SOLID principles**, **modularity**,
 Clone the github repository, then go to the ‘presenter‘ package and run the file called ‘App.java’
 
 Repo guide:
-
+``` bash
 ├── NOTIZO/
 │ │ └── presenter/
 │ │ └── App.java ##RUN THIS FILE AFTER CLONING REPO## 
 
+```
 ---
 
 ## Project Structure
