@@ -1,4 +1,4 @@
-# Workshop-4 — *El Espectador* News App  
+# Integred latest report — *NOTIZO* News App  
 
 ## 📚 Object-Oriented Programming — Semester 2025-I  
 **Universidad Distrital Francisco José de Caldas**  
