@@ -16,7 +16,7 @@
 
 - [Workshop-4](#workshop-4)
   - [Project Overview](#project-overview)
-  - [Run Steps](#run-steps).
+  - [Brief Usage Instructions](#brief-usage-instructions).
   - [Project Structure](#project-structure)
 
 ---
@@ -30,10 +30,16 @@ Built with **Java**, the system emphasizes **SOLID principles**, **modularity**,
 
 ---
 
-## Run Steps
-Our app doesn't manages any kind of input from user, it objecitve is to keep the user informated using a intuitive user interface
-feel free to execute the App.java file on the /presenter/App.java and navigate your own! thank you.
+## Brief Usage Instructions:
+Clone the github repository, then go to the ‘presenter‘ package and run the file called ‘App.java’
 
+Repo guide:
+
+├── NOTIZO/
+...
+│ │ └── presenter/
+│ │ └── App.java ##RUN THIS FILE AFTER CLONING REPO##
+... NewsPresenter.java 
 ---
 
 ## Project Structure
