@@ -17,9 +17,13 @@ The main objective is to apply core Object-Oriented Programming (OOP) principles
 
 ```bash
 
-src/
-├── gui/          # Swing-based GUI components (View)
-├── model/        # Business logic and data models (Model)
-├── presenter/    # Controller logic connecting model and view (Controller)
-└── Images/       # Local images for UI content
+├──Documentation/
+|     ...
+├──NOTIZO/
+    └──src/
+|        ├── gui/          # Swing-based GUI components (View)
+|        ├── model/        # Business logic and data models (Model)
+|        ├── presenter/    # Controller logic connecting model and view (Controller)
+|        └── Images/       # Local images for UI content
+|        └── README.md
 └── README.md
