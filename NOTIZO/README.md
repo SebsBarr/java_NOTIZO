@@ -1,5 +1,3 @@
-# Workshop-4 — *El Espectador* News App  
-
 ## 📚 Object-Oriented Programming — Semester 2025-I  
 **Universidad Distrital Francisco José de Caldas**  
 **Professor**: Eng. Carlos Andrés Sierra, M.Sc.  
@@ -14,7 +12,6 @@
 
 ## Contents
 
-- [Workshop-4](#workshop-4)
   - [Project Overview](#project-overview)
   - [Run Steps](#run-steps).
   - [Project Structure](#project-structure)
