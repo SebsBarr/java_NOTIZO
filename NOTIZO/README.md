@@ -28,8 +28,9 @@ Built with **Java**, the system emphasizes **SOLID principles**, **modularity**,
 ---
 
 ## Run Steps
+Clone this repository via https then open the "App.java" file and run it!
 Our app doesn't manages any kind of input from user, it objecitve is to keep the user informated using a intuitive user interface
-feel free to execute the App.java file on the /presenter/App.java and navigate your own! thank you.
+feel free to execute the App.java file on the /presenter/App.java thank you.
 
 ---
 
